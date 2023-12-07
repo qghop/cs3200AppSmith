@@ -1,7 +1,19 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "New Course",
+      "isDefault": false
+    },
+    {
+      "id": "Assignments in Course",
+      "isDefault": false
+    },
+    {
+      "id": "Edit Assignment",
+      "isDefault": false
+    },
+    {
+      "id": "Home",
       "isDefault": true
     },
     {
