@@ -24,7 +24,7 @@
         {"key": "buttonColor"},
         {"key": "borderRadius"}
     ],
-    "text": "Modify Student",
+    "text": "View Specific Student",
     "isDisabled": false,
     "key": "ftcr5wmegh",
     "isDeprecated": false,
