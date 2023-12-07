@@ -1,6 +1,6 @@
 {
     "mobileBottomRow": 19,
-    "widgetName": "Text1",
+    "widgetName": "Text1Copy",
     "displayName": "Text",
     "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
     "searchTags": [
@@ -19,7 +19,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 17.296875,
     "dynamicTriggerPathList": [],
-    "leftColumn": 24,
+    "leftColumn": 8,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -27,13 +27,13 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Teacher:",
+    "text": "Student:",
     "key": "w19djqndo9",
     "isDeprecated": false,
-    "rightColumn": 40,
+    "rightColumn": 24,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "4pxk9jrxuq",
+    "widgetId": "uag4mw3fl5",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
