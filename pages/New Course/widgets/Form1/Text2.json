@@ -8,8 +8,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 1,
-    "bottomRow": 5,
+    "topRow": 0,
+    "bottomRow": 4,
     "type": "TEXT_WIDGET",
     "hideCard": false,
     "mobileRightColumn": 25.5,
@@ -17,7 +17,7 @@
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "dynamicTriggerPathList": [],
-    "leftColumn": 1.5,
+    "leftColumn": 2,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -28,7 +28,7 @@
     "text": "New Course",
     "key": "pki056kj3m",
     "isDeprecated": false,
-    "rightColumn": 25.5,
+    "rightColumn": 26,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "ju65h2tt1y",

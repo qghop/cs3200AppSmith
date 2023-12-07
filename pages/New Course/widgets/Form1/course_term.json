@@ -27,7 +27,7 @@
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileBottomRow": 20,
-    "widgetName": "Input2",
+    "widgetName": "course_term",
     "displayName": "Input",
     "searchTags": [
         "form",
