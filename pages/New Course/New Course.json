@@ -1,41 +1,55 @@
 {
   "unpublishedPage": {
-    "name": "Page1",
-    "slug": "page1",
+    "name": "New Course",
+    "slug": "new-course",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1224,
+          "rightColumn": 4896,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 760,
+          "bottomRow": 650,
           "containerStyle": "none",
-          "snapRows": 75,
+          "snapRows": 124,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 770,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "New Course_all_classes",
+              "name": "all_classes",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
+        "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page1",
+        "id": "New Course",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6570cb6f811a253ee0704fd2_6570d9370b29b17f029e6018"
+  "gitSyncId": "6570caf5811a253ee0704fcc_6570caf5811a253ee0704fce"
 }

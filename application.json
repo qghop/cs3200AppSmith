@@ -1,11 +1,7 @@
 {
   "pages": [
     {
-      "id": "View Classes",
-      "isDefault": true
-    },
-    {
-      "id": "Page1",
+      "id": "New Course",
       "isDefault": false
     },
     {
@@ -17,8 +13,8 @@
       "isDefault": false
     },
     {
-      "id": "Register for Course",
-      "isDefault": false
+      "id": "Home",
+      "isDefault": true
     }
   ],
   "viewMode": false,

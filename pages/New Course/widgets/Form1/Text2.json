@@ -1,6 +1,6 @@
 {
     "mobileBottomRow": 5,
-    "widgetName": "Text1",
+    "widgetName": "Text2",
     "displayName": "Text",
     "iconSVG": "/static/media/icon.a47d6d5dbbb718c4dc4b2eb4f218c1b7.svg",
     "searchTags": [
@@ -16,6 +16,7 @@
     "animateLoading": true,
     "overflow": "NONE",
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+    "dynamicTriggerPathList": [],
     "leftColumn": 1.5,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
@@ -24,19 +25,19 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "Form",
-    "key": "p1gbfovg20",
+    "text": "New Course",
+    "key": "pki056kj3m",
     "isDeprecated": false,
     "rightColumn": 25.5,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "7r0yo93ph0",
+    "widgetId": "ju65h2tt1y",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#231F20",
     "version": 1,
-    "parentId": "hkjyd23hr9",
+    "parentId": "472ciu5lcp",
     "tags": [
         "Suggested",
         "Content"

@@ -16,7 +16,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "View Classes",
+    "pageId": "New Course",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -47,7 +47,7 @@
     "policies": [],
     "userPermissions": []
   },
-  "id": "View Classes_all_classes",
+  "id": "New Course_all_classes",
   "deleted": false,
   "gitSyncId": "6570cb6f811a253ee0704fd2_6570cbf5811a253ee0704fd5"
 }

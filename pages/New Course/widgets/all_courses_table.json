@@ -3,7 +3,7 @@
     "borderColor": "#E0DEDE",
     "isVisibleDownload": true,
     "iconSVG": "/static/media/icon.e6911f8bb94dc6c4a102a74740c41763.svg",
-    "topRow": 4,
+    "topRow": 10,
     "isSortable": true,
     "type": "TABLE_WIDGET_V2",
     "inlineEditingSaveOption": "ROW_LEVEL",
@@ -17,7 +17,7 @@
         {"key": "primaryColumns.term.computedValue"}
     ],
     "needsHeightForContent": true,
-    "leftColumn": 3,
+    "leftColumn": 10,
     "delimiter": ",",
     "defaultSelectedRowIndex": 0,
     "flexVerticalAlignment": "start",
@@ -59,7 +59,7 @@
     "columnUpdatedAt": 1701891261830,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 29,
-    "widgetName": "Table1",
+    "widgetName": "all_courses_table",
     "defaultPageSize": 0,
     "columnOrder": [
         "name",
@@ -67,7 +67,7 @@
     ],
     "dynamicPropertyPathList": [],
     "displayName": "Table",
-    "bottomRow": 32,
+    "bottomRow": 38,
     "columnWidthMap": {"name": 464},
     "parentRowSpace": 10,
     "hideCard": false,
@@ -76,7 +76,7 @@
     "borderWidth": "1",
     "primaryColumns": {
         "name": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"name\"]))}}",
+            "computedValue": "{{all_courses_table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"name\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "name",
@@ -110,7 +110,7 @@
             "verticalAlignment": "CENTER"
         },
         "term": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"term\"]))}}",
+            "computedValue": "{{all_courses_table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"term\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "term",
@@ -147,7 +147,7 @@
     "key": "wiwy3wr3lc",
     "canFreezeColumn": true,
     "isDeprecated": false,
-    "rightColumn": 40,
+    "rightColumn": 47,
     "textSize": "0.875rem",
     "widgetId": "yxhbx6sxwk",
     "minWidth": 450,

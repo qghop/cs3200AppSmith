@@ -1,46 +1,33 @@
 {
   "unpublishedPage": {
-    "name": "View Classes",
-    "slug": "view-classes",
+    "name": "Home",
+    "slug": "home",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 380,
+          "bottomRow": 760,
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 75,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 1292,
-          "dynamicTriggerPathList": [],
+          "minHeight": 770,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "View Classes_all_classes",
-              "name": "all_classes",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
-        "layoutOnLoadActionErrors": [],
+        "layoutOnLoadActions": [],
         "validOnPageLoadActions": true,
-        "id": "View Classes",
+        "id": "Home",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -51,5 +38,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "6570caf5811a253ee0704fcc_6570caf5811a253ee0704fce"
+  "gitSyncId": "6570cb6f811a253ee0704fd2_65721dd74cd3b043a6eef7b2"
 }
