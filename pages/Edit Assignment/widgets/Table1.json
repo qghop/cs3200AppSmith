@@ -72,7 +72,11 @@
     "dynamicPropertyPathList": [],
     "displayName": "Table",
     "bottomRow": 39,
-    "columnWidthMap": {},
+    "columnWidthMap": {
+        "sectionID": 106,
+        "assignmentID": 139,
+        "courseID": 109
+    },
     "parentRowSpace": 10,
     "hideCard": false,
     "mobileRightColumn": 44,
