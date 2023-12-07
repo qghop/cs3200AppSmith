@@ -15,6 +15,10 @@
     {
       "id": "Edit Assignment",
       "isDefault": false
+    },
+    {
+      "id": "Register for Course",
+      "isDefault": false
     }
   ],
   "viewMode": false,
