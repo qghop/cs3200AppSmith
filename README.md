@@ -9,3 +9,12 @@ This app is built using Appsmith. Turn any datasource into an internal app in mi
 ##### You can visit the application using the below link
 
 ###### [![](https://assets.appsmith.com/git-sync/Buttons.svg) ](http://localhost:8080/applications/6570caf5811a253ee0704fcc/pages/6570caf5811a253ee0704fcf) [![](https://assets.appsmith.com/git-sync/Buttons2.svg)](http://localhost:8080/applications/6570caf5811a253ee0704fcc/pages/6570caf5811a253ee0704fcf/edit)
+
+How to use our App:
+- Visit the link above
+- The home page will show actions that Students, Teachers and Managers can do
+- Student can view specific course by entering the course id.
+- Teachers can go to assignments in courses which allows them to add and delete assignments for that course. They can also edit assignments by enter the assignment id and change the name of the assignment. Lastly, teachers can add new courses to the database.
+- Managers can view all students and look for a specific student by searching their student id.
+
+Link to video project overview - https://youtu.be/f77u2JSHgTU
